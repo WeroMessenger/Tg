@@ -1,0 +1,8 @@
+{
+  "name": "Remix: OSINT: Последний След",
+  "description": "Мобильная детективная игра в стиле OSINT. Расследуйте загадочные исчезновения людей, анализируйте социальные сети, карты и фотографии, чтобы раскрыть тайну Ghost_13.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
